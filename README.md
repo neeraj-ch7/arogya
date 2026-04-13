@@ -202,17 +202,7 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ---
 
-## 🙏 Acknowledgements
 
-Arogya stands on the shoulders of global healthcare innovation:
-
-- 🌍 **World Health Organization (WHO)** — Global health standards and telemedicine guidelines
-- 🇮🇳 **NDHM / ABDM (India)** — National Digital Health Mission framework and health data standards
-- 📚 **Telemedicine Research Community** — Open-source research advancing remote patient care
-- 🤖 **Google DeepMind & Gemini Team** — AI tools pushing the boundaries of medical intelligence
-- 💙 **Open Source Contributors** — React, Supabase, Tailwind CSS, and the broader developer community
-
----
 
 <div align="center">
 
